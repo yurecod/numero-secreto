@@ -1,7 +1,7 @@
 <h1>Jogo do número secreto</h1>
 
 <h2>🔖 Sobre</h2>
-<p>É um jogo simples de adivinhação onde o usuário tenta adivinhar o número sorteado aleatóriamente.</p>
+<p>É um jogo simples de adivinhação onde o usuário tenta adivinhar um número de 1 a 10 sorteado aleatóriamente.</p>
 
 ## 🚀 Tecnologias
 <div>
